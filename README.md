@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Priyahegde207
-- 👀 I’m interested in Data Science Topics. This world fascinates me.
-- 🌱 I’m currently learning Data Science
+- 👋 Hi, I’m Priya Hegde
+- 👀 I’m interested in Data Science. This world fascinates me.
+- 🌱 I have completed Data Science curse and eager to work on more projects in it.
 - 💞️ I’m looking to collaborate on new projects on Data Analytics, Machine learning, MySQL
 - 📫 How to reach me? Simple, mail me at priyahegde207@gmail.com
 
